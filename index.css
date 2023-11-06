@@ -16,7 +16,13 @@ main { max-width: 600px;
 
 section {
         margin:24px 0;
-        padding: 16px; }
+        padding: 16px;
+        border-style: dotted; 
+        border-color: orange; 
+        border-width: 3px;
+        
+    
+    }
 
 #title { font-size: 40px;
             font-weight: 800; }
